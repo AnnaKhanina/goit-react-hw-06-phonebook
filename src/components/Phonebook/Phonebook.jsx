@@ -4,9 +4,9 @@ import { useDispatch, useSelector } from 'react-redux';
 import { addContact } from 'redux/contactsSlice';
 
 import InputName from './ContactInput/InputName/InputName';
-import LabelPhoneBook from './ContactLabel/Label';
-import ButtonSubmit from './ContactButton/ButtonSubmit';
-import InputNumber from './ContactInput/InputNumber/inputNumber';
+import LabelPhoneBook from './ContactLabel/Label/Label';
+import ButtonSubmit from './ContactButton/ButtonSubmit/ButtonSubmit';
+import InputNumber from './ContactInput/InputNumber/InputNumber';
 import FormPhonebook from './ContactForm/Form';
 
 const Phonebook = () => {

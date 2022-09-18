@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 const MainPage = styled.div`
-  margin-left: auto;
+  margin-left: 30px;
   margin-right: auto;
   margin-top: 20px;
   width: 500px;

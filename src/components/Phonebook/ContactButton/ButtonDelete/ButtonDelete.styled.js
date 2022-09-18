@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 const ButtonDeleteStyle = styled.button`
   margin-left: 10px;
-  background-color: #1d143b;
+  background-color: #7741EA;
   color: white;
   border-radius: 5px;
   cursor: pointer;
@@ -10,7 +10,7 @@ const ButtonDeleteStyle = styled.button`
 
   &: hover {
     background-color: white;
-    color: #1d143b;
+    color: #7741EA;
   }
 `;
 
