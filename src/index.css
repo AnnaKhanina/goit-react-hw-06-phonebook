@@ -1,26 +1,5 @@
-html {
-  box-sizing: border-box;
-}
+@import-normalize; /* bring in normalize.css styles */
 
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
-}
-
-ul {
-  padding: 0;
-}
-
-li {
-  list-style: none;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
